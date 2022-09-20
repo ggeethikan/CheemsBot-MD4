@@ -36,10 +36,10 @@ global.APIKeys = {
 
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = false //auto reading in gc (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoTyping = ture //auto tying in gc (true to on, false to off)
+global.autoreadpmngc = ture //auto reading in gc and pm (true to on, false to off)
+global.autoReadGc = ture //auto reading in gc (true to on, false to off)
+global.autoRecord = ture //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //semt menu variants
@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.vcardowner = ['94740925284'] //ur owner number
+global.ownername = "🦄Tharuwa official" //ur owner name
+global.ytname = "YT:Tharuksha official " //ur yt chanel name
+global.socialm = "Whatsapp:https://chat.whatsapp.com/DXRrNsAN2z1346anAMTpdC " //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213']
-global.ownertag = '916909137213' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
+global.owner = ['94740925284']
+global.ownertag = '94740925284' //ur tag number
+global.botname = 'Tharuwa MD' //ur bot name
+global.linkz = "https://youtube.com/channel/UCs9UEyCiQwS0K_930486TSw" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/channel/UCs9UEyCiQwS0K_930486TSw" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.themeemoji = "💬" //ur theme emoji
+global.packname = "Tharuwa MD Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.author = "👥Tharuwa MD" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['916909137213'] //ur premium numbers
+global.premium = ['94740925284'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -94,7 +94,24 @@ global.nttoxic = []
 global.ntnsfw = []
 global.ntvirtex = []
 global.rkyt = []
-global.wlcm = []
+global.wlcm = [🇼‌🇪‌🇱‌🇨‌🇴‌🇲‌🇪‌ 🇧‌🇴‌🇹‌ 🇬‌🇷‌🇴‌🇺‌🇵‌ 🍁 
+
+❮❮ ඔයාලට ඕන සින්දුවක් , ඕන වීඩියෝ එකක් , වගේම තව වැඩ ගොඩක් මේ ගෲප් එකෙන් කරගන්න පුලුවන් ❯❯ 
+
+❎සමූහයේ නීති රීති❎ 
+
+☞
+🚫Posting links to other groups 
+
+🚫Using abusive words  Posting abusive videos 
+
+🚫Posting indecent images 
+
+4.මෙමෙ නීතිවලට අවනත නොවන්නන් දැනුම් දීමකින් තොරව සමූහයෙන් ඉවත් කරයි(ඇඩ්මින්වරයෙකු දැනුවත් කරන්න)
+
+☞සමූහය තුල ස්පෑම් බාවිතයෙන් වලකින්න. 
+
+🇱‌🇮‌🇳‌🇰‌➡https://chat.whatsapp.com/DXRrNsAN2z1346anAMTpdC]
 global.gcrevoke = []
 global.autorep = []
 global.ntilink = []
